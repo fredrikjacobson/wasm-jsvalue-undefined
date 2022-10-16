@@ -1,0 +1,15 @@
+{
+  "name": "pc-tools",
+  "description": "Pointcloud Tools in WASM",
+  "version": "0.1.0",
+  "files": [
+    "pc_tools_bg.wasm",
+    "pc_tools.js",
+    "pc_tools_bg.js",
+    "pc_tools.d.ts"
+  ],
+  "module": "pc_tools.js",
+  "homepage": "https://github.com/annotell/annotell/blob/master/rust/javascript-bindings/interpolator/README.md",
+  "types": "pc_tools.d.ts",
+  "sideEffects": false
+}
